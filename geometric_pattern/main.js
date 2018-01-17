@@ -39,4 +39,6 @@ function draw() {
     gVal = gVal + 7;
     bVal = bVal + 3;
   }
+  <marquee> behavior='alternate'
+  </marquee>
 }
