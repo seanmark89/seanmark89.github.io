@@ -6,9 +6,9 @@ var enemyImage;
 var backgroundImage;
 
 function preload() {
-  playerImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/N5uCbDu.png");
-  enemyImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/OdL0XPt.png");
-  backgroundImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/aKQOg3G.png");
+  playerImage = loadImage("https://i.redd.it/h2wfn7uku4hy.jpg/");
+  enemyImage = loadImage("http://4.bp.blogspot.com/_B5E5HPIKKBY/TCgENnaXouI/AAAAAAAAAZs/JHip18_p03M/s320/Screen+shot+2010-06-27+at+10.08.28+PM.png");
+  backgroundImage = loadImage("http://i0.kym-cdn.com/entries/icons/original/000/021/862/lucioano.jpg");
 }
 
 function setup() {
