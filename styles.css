@@ -9,9 +9,9 @@ body {
  height: 50px;	
  overflow: hidden;
  position: relative;
- background: blue;
- color: green;
- border: 1px solid green;
+ background: green;
+ color: solid blue;
+ border: 1px solid blue;
 }
 .moveit p {
  position: absolute;
