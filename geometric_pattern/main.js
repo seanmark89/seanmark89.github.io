@@ -7,6 +7,7 @@ var bVal;
 function setup(){
     createCanvas(480,600);
     circleDiameter = width/NUM_CIRCLES;
+    <marquee> behavior = "alternate" </marquee>
 }
 
 function draw() {
@@ -39,6 +40,5 @@ function draw() {
     gVal = gVal + 7;
     bVal = bVal + 3;
   }
-  <marquee> behavior='alternate'
-  </marquee>
+  
 }
